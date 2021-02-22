@@ -2,7 +2,7 @@
 Repositório criado para gerenciar os projetos e aulas de Linguagens I.
 
 # Desenvolvedor:
-## Luiz Fernando Rodrigues
+- Luiz Fernando Rodrigues
 
 # Principais linguagens:
 - Java
