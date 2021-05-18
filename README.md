@@ -2,9 +2,11 @@
 Repositório criado para gerenciar os projetos e aulas de Linguagens I.
 
 # Desenvolvedor:
-- Luiz Fernando Rodrigues
+- Murilo Zanini de Carvalho
 
-# Principais linguagens:
+# Princípais Linguagens:
 - Java
 - Python
 - C
+- Dart
+- Flutter
