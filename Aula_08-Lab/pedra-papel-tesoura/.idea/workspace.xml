@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="abfa6fbd-a126-4ef1-964a-f6406b6dff4c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/luiz/rodrigues/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/luiz/rodrigues/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/luiz/rodrigues/controlador/Sistema.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/luiz/rodrigues/controlador/Sistema.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/luiz/rodrigues/enumeracao/Resultado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/luiz/rodrigues/enumeracao/Resultado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/luiz/rodrigues/model/Jogada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/luiz/rodrigues/model/Jogada.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/luiz/rodrigues/model/classico/Papel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/luiz/rodrigues/model/classico/Papel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/luiz/rodrigues/model/classico/Pedra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/luiz/rodrigues/model/classico/Pedra.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/luiz/rodrigues/model/classico/Tesoura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/luiz/rodrigues/model/classico/Tesoura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/luiz/rodrigues/model/jeff/Lagarto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/luiz/rodrigues/model/jeff/Lagarto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/luiz/rodrigues/model/jeff/Spoke.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/luiz/rodrigues/model/jeff/Spoke.java" afterDir="false" />
-    </list>
+    <list default="true" id="abfa6fbd-a126-4ef1-964a-f6406b6dff4c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
