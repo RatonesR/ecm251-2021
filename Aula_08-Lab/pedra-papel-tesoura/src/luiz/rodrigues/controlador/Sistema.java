@@ -1,9 +1,9 @@
 package luiz.rodrigues.controlador;
 
-import luiz.rodrigues.pedra_papel_tesoura.model.*;
-import luiz.rodrigues.pedra_papel_tesoura.model.classico.Papel;
-import luiz.rodrigues.pedra_papel_tesoura.model.classico.Pedra;
-import luiz.rodrigues.pedra_papel_tesoura.model.classico.Tesoura;
+import luiz.rodrigues.model.*;
+import luiz.rodrigues.model.classico.Papel;
+import luiz.rodrigues.model.classico.Pedra;
+import luiz.rodrigues.model.classico.Tesoura;
 
 import java.util.Random;
 import java.util.Scanner;

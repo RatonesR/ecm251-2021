@@ -1,6 +1,6 @@
 package luiz.rodrigues.model;
 
-import luiz.rodrigues.pedra_papel_tesoura.enumeracao.Resultado;
+import luiz.rodrigues.enumeracao.Resultado;
 
 public abstract class Jogada {
     final public Resultado verificarResultado(Jogada jogada) {

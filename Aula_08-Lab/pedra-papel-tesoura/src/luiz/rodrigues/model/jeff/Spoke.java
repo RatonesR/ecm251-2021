@@ -1,10 +1,10 @@
 package luiz.rodrigues.model.jeff;
 
-import luiz.rodrigues.pedra_papel_tesoura.enumeracao.Resultado;
-import luiz.rodrigues.pedra_papel_tesoura.model.Jogada;
-import luiz.rodrigues.pedra_papel_tesoura.model.classico.Papel;
-import luiz.rodrigues.pedra_papel_tesoura.model.classico.Pedra;
-import luiz.rodrigues.pedra_papel_tesoura.model.classico.Tesoura;
+
+import luiz.rodrigues.model.Jogada;
+import luiz.rodrigues.model.classico.Papel;
+import luiz.rodrigues.model.classico.Pedra;
+import luiz.rodrigues.model.classico.Tesoura;
 
 
 public class Spoke extends Jogada {

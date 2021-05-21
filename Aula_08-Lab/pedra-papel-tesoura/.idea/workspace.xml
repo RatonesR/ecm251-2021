@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="150f0bf1-9c9a-44ba-adf5-a1920497c19e" name="Default Changelist" comment="" />
+    <list default="true" id="abfa6fbd-a126-4ef1-964a-f6406b6dff4c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/luiz/rodrigues/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/luiz/rodrigues/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/luiz/rodrigues/controlador/Sistema.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/luiz/rodrigues/controlador/Sistema.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/luiz/rodrigues/enumeracao/Resultado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/luiz/rodrigues/enumeracao/Resultado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/luiz/rodrigues/model/Jogada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/luiz/rodrigues/model/Jogada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/luiz/rodrigues/model/classico/Papel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/luiz/rodrigues/model/classico/Papel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/luiz/rodrigues/model/classico/Pedra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/luiz/rodrigues/model/classico/Pedra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/luiz/rodrigues/model/classico/Tesoura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/luiz/rodrigues/model/classico/Tesoura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/luiz/rodrigues/model/jeff/Lagarto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/luiz/rodrigues/model/jeff/Lagarto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/luiz/rodrigues/model/jeff/Spoke.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/luiz/rodrigues/model/jeff/Spoke.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
-  <component name="ProjectId" id="1srg51ZrbXjw5r2Nj5S0lhe9EED" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1srjrof7RrQB2NwaiBzxc60MB2h" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -74,7 +94,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="luiz.rodrigues.Main" />
-      <module name="Aula_08-Lab" />
+      <module name="pedra-papel-tesoura" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -82,15 +102,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="150f0bf1-9c9a-44ba-adf5-a1920497c19e" name="Default Changelist" comment="" />
-      <created>1621635937271</created>
+      <changelist id="abfa6fbd-a126-4ef1-964a-f6406b6dff4c" name="Default Changelist" comment="" />
+      <created>1621637804733</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1621635937271</updated>
+      <updated>1621637804733</updated>
     </task>
     <servers />
   </component>
@@ -104,6 +129,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

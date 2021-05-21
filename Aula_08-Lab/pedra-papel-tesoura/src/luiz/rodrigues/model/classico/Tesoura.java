@@ -1,8 +1,8 @@
 package luiz.rodrigues.model.classico;
 
-import luiz.rodrigues.pedra_papel_tesoura.model.Jogada;
-import luiz.rodrigues.pedra_papel_tesoura.model.jeff.Lagarto;
-import luiz.rodrigues.pedra_papel_tesoura.model.jeff.Spoke;
+import luiz.rodrigues.model.Jogada;
+import luiz.rodrigues.model.jeff.Lagarto;
+import luiz.rodrigues.model.jeff.Spoke;
 
 public class Tesoura extends Jogada {
 

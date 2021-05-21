@@ -1,6 +1,6 @@
 package luiz.rodrigues;
 
-import luiz.rodrigues.pedra_papel_tesoura.controlador.Sistema;
+import luiz.rodrigues.controlador.Sistema;
 
 public class Main {
 

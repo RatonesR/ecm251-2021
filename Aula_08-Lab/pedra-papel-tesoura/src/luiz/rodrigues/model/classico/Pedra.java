@@ -1,12 +1,12 @@
 package luiz.rodrigues.model.classico;
 
-import luiz.rodrigues.pedra_papel_tesoura.model.Jogada;
+import luiz.rodrigues.model.Jogada;
 
 public class Pedra extends Jogada {
 
     @Override
     public boolean verificarSeGanhei(Jogada jogada) {
-        return (jogada instanceof Pedra) || (jogada instanceof Tesoura);
+        return (jogada instanceof Tesoura);
     }
 
     @Override

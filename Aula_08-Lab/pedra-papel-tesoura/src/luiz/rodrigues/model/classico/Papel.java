@@ -1,6 +1,6 @@
 package luiz.rodrigues.model.classico;
 
-import luiz.rodrigues.pedra_papel_tesoura.model.Jogada;
+import luiz.rodrigues.model.Jogada;
 
 public class Papel extends Jogada {
 
